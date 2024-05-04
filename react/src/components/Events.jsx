@@ -2,7 +2,7 @@ import React from "react";
 
 const Events = (props) => {
   const handleAlert = () => {
-    alert("React Events");
+    alert("React Wrolld");
   };
   return (
     <div>
